@@ -1,0 +1,30 @@
+0	fi - id, integer, F
+1	fix - id, integer, P, значение: 0
+2	fiy - id, integer, P, значение: 0
+3	fiz - id, integer, V, значение: 0
+4	*
+5	+
+6	fs - id, string, F
+7	fsa - id, string, P, значение: [0]
+8	fsb - id, string, P, значение: [0]
+9	fsc - id, string, V, значение: [0]
+10	substr - id, string, F
+11	substra - id, string, P, значение: [0]
+12	substrp - id, integer, P, значение: 0
+13	substrn - id, integer, P, значение: 0
+14	L0 - L, integer, значение: 1
+15	L1 - L, integer, значение: 3
+16	+
+17	main - id, string, F
+18	mainx - id, integer, V, значение: 0
+19	mainy - id, integer, V, значение: 0
+20	mainz - id, integer, V, значение: 0
+21	mainsa - id, string, V, значение: [0]
+22	mainsb - id, string, V, значение: [0]
+23	mainsc - id, string, V, значение: [0]
+24	mainstrlen - id, integer, V, значение: 0
+25	substrp - id, string, P, значение: [0]
+26	L2 - L, integer, значение: 5
+27	L3 - L, string, значение: [10]1234567890
+28	L4 - L, string, значение: [18]контрольный пример
+29	L5 - L, integer, значение: 0
